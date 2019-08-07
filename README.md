@@ -1,5 +1,9 @@
 # java 基础 Demo 代码
 
+#### 本项目地址
+
+https://github.com/mr-dragon/java-basic-demo
+
 #### 项目环境及编码
 
 1. JDK：`1.8`
