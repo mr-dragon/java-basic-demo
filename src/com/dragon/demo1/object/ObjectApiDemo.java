@@ -1,4 +1,4 @@
-package com.dragon.demo.object;
+package com.dragon.demo1.object;
 
 import java.util.ArrayList;
 import java.util.Objects;
@@ -8,7 +8,7 @@ import java.util.Scanner;
 /**
  * @author dragon
  * @version V0.1
- * @title: com.md.demo.object.ObjectApiDemo
+ * @title: com.dragon.demo1.object.ObjectApiDemo
  * @description: Java语言中的根类：Object的 API Demo
  * @document: https://docs.oracle.com/javase/8/docs/api/
  * @date 2019/08/06 22:58
